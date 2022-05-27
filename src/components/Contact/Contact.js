@@ -23,7 +23,7 @@ const Contact = () => {
  
   const getUsers = async () => {
       const response = await axios.get(
-          "http://localhost:8000/api/komentars"
+          "https://server-auriga.herokuapp.com/api/komentars"
       )
       console.log(response.data)
       setCountComment(response.data.length)
@@ -37,7 +37,7 @@ const Contact = () => {
     if (dataUser.name.length === 0) dataUser.name = "Anonymous"
 
           const response = await axios.post(
-              "http://localhost:8000/api/komentars",
+              "https://server-auriga.herokuapp.com/api/komentars",
               dataUser
           )   
           console.log(response.data)
