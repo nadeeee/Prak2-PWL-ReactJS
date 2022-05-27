@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Prak2-PWL-ReactJS/static/css/main.f3beb914.chunk.css",
+    "main.js": "/Prak2-PWL-ReactJS/static/js/main.aa38f063.chunk.js",
+    "main.js.map": "/Prak2-PWL-ReactJS/static/js/main.aa38f063.chunk.js.map",
+    "runtime-main.js": "/Prak2-PWL-ReactJS/static/js/runtime-main.7cb12cda.js",
+    "runtime-main.js.map": "/Prak2-PWL-ReactJS/static/js/runtime-main.7cb12cda.js.map",
+    "static/js/2.1703e425.chunk.js": "/Prak2-PWL-ReactJS/static/js/2.1703e425.chunk.js",
+    "static/js/2.1703e425.chunk.js.map": "/Prak2-PWL-ReactJS/static/js/2.1703e425.chunk.js.map",
+    "index.html": "/Prak2-PWL-ReactJS/index.html",
+    "static/css/main.f3beb914.chunk.css.map": "/Prak2-PWL-ReactJS/static/css/main.f3beb914.chunk.css.map",
+    "static/js/2.1703e425.chunk.js.LICENSE.txt": "/Prak2-PWL-ReactJS/static/js/2.1703e425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb12cda.js",
+    "static/js/2.1703e425.chunk.js",
+    "static/css/main.f3beb914.chunk.css",
+    "static/js/main.aa38f063.chunk.js"
+  ]
+}
